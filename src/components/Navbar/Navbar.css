@@ -1,5 +1,6 @@
 .navbar {
-  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  /* background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%); */
+  background-color: #db504a;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -19,7 +20,7 @@
 }
 
 .navbar-logo {
-  color: #fff;
+  color: #084c61;
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
@@ -50,7 +51,7 @@
 }
 
 .nav-links {
-  color: #fff;
+  color: #56a3a6;
   display: flex;
   align-items: center;
   text-decoration: none;

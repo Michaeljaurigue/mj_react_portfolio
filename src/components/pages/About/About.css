@@ -10,7 +10,7 @@ video {
   font-size: 48px;
   font-weight: 700;
   margin-bottom: 32px;
-  color: #fff;
+  color: #db504a;
   text-align: center;
 }
 .about-container {
@@ -20,6 +20,7 @@ video {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #084c61;
   align-items: center;
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
   object-fit: contain;
@@ -27,9 +28,17 @@ video {
 }
 
 .about-container > h1 {
-  color: #fff;
+  color: #56a3a6;
   font-size: 90px;
   margin-top: 100px;
+}
+
+.about__item-text {
+  border-radius: 10px;
+  border: 1px solid #4f6d7a;
+  background: transparent;
+  color: #e3b505;
+  padding: 10px;
 }
 
 .about-img-wrap {
@@ -58,7 +67,7 @@ video {
 .about__item-info {
   margin-top: 8px;
   color: #fff;
-  font-size: 20px;
+  font-size: 30px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   margin-left: 100px;

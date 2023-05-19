@@ -5,8 +5,13 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div className="footer-container">
-      <div className="footer-links">
-        <div className="footer-link-wrapper">
+      <div class="footer_container_items">
+        <div class="social-media-wrap">
+          <div class="footer-logo">
+            <Link to="/" className="social-logo">
+              MJ
+            </Link>
+          </div>
           <div className="footer-link-items">
             <Link className="footer-link-item" to="/about">
               About
@@ -19,24 +24,6 @@ function Footer() {
             </Link>
             <Link className="footer-link-item" to="/contact">
               Contact
-            </Link>
-            {/* <Link className="footer-link-item" to="/">
-              Resume
-            </Link>
-            <Link className="footer-link-item" to="/">
-              Terms of Service
-            </Link> */}
-          </div>
-        </div>
-      </div>
-      {/* <Button path={"/contact"} buttonStyle="btn--outline">
-        Contact Me
-      </Button> */}
-      <section class="social-media">
-        <div class="social-media-wrap">
-          <div class="footer-logo">
-            <Link to="/" className="social-logo">
-              MJ
             </Link>
           </div>
           <small class="website-rights">Michael Jaurigue © 2023</small>
@@ -75,7 +62,7 @@ function Footer() {
             </Link>
           </div>
         </div>
-      </section>
+      </div>
     </div>
   );
 }

@@ -11,40 +11,40 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/se_project_aroundtheus.jpg"
-              text="This project was built with React. It is a front end application that allows users to add and delete cards, customize profile picture, and change the name of the user. Click the image to see the live site!"
-              label="Details"
+              text="React | API | Node.js | Git :  Allows users to add and delete cards, customize profile picture, and change the name of the user. Click the image to see the live site!"
+              label="Around the US"
               path="https://github.com/Michaeljaurigue/se_project_aroundtheus"
             />
             <CardItem
-              src="images/se_project_coffeeshop.jpg"
-              text="This project was built with HTML, CSS, and JavaScript. We utlized CSS Flexbox to create the layout of the website. Click the image to see the live site!"
-              label="Details"
-              path="https://michaeljaurigue.github.io/se_project_coffeeshop/"
+              src="images/se_project_wtwr_react.jpg"
+              text="React | API | Express | MongoDB | Node.js | Git : This app uses API to recommend an outfit based on the weather. Click the image to see the live site!"
+              label="WTWR Weather Outfit App"
+              path="https://michaeljaurigue.github.io/se_project_react/"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/se_project_wtwr_react.jpg"
-              text="This project was built with the react. Allows users to create, read, update, and delete clothing itmes. Works with weather API and automatically recommeneds clothing items depending on the weather! Click the image to see the live site!"
-              label="Details"
-              path="https://michaeljaurigue.github.io/se_project_react/"
+              src="images/se_project_coffeeshop.jpg"
+              text="HTML | CSS | JavaScript | Git : Coffeeshop landing page for a fictional company. Click the image to see the live site!"
+              label="Practicum CoffeeShop"
+              path="https://michaeljaurigue.github.io/se_project_coffeeshop/"
             />
             <CardItem
               src="images/se_project_library.jpg"
-              text="This project was built with HTML and CSS. A simple landng page for a fictional company. Click the image to see the live site!"
-              label="Details"
+              text="HTML | CSS : A simple landng page for a fictional company. Click the image to see the live site!"
+              label="SE Project Library"
               path="https://michaeljaurigue.github.io/se_project_library/"
             />
             <CardItem
               src="images/mj_nachicago.jpg"
-              text="Currently working on redeveloping this website. This project will be built with the MERN stack. Visit the website to see the current version!"
-              label="Details"
+              text="React | API | Express | MongoDB | Node.js | Git : Currently redeveloping this website. Visit the website to see the current version!"
+              label="New Acropolis Chicago Website"
               path="https://www.nachicago.org/"
             />
             <CardItem
               src="images/mj_globaldotmedia.jpg"
-              text="Currently working on redeveloping this website. This project will be built with the MERN stack. Visit the website to see the current version!"
-              label="Details"
+              text="React | API | Express | MongoDB | Node.js | Git : Currently redeveloping this website. Visit the website to see the current version!"
+              label="Global Dot Media Website"
               path="https://globaldotmedia.com/"
             />
           </ul>
