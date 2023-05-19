@@ -13,9 +13,6 @@ function Footer() {
             </Link>
           </div>
           <div className="footer-link-items">
-            <Link className="footer-link-item" to="/about">
-              About
-            </Link>
             <Link className="footer-link-item" to="/projects">
               Projects
             </Link>
