@@ -9,9 +9,20 @@ function HeroSection() {
       <div className="hero__container_items">
         <video src="/videos/video-1.mp4" autoPlay loop muted />
         <div className="hero__container_left">
-          <h1>Hi, I'm Michael</h1>
-          <p>Software Developer</p>
-          <p>and Artist</p>
+          <img
+            className="hero__img-hello"
+            src="images/img-hello.png"
+            alt="Hello,"
+          />
+          <h1>my name is</h1>
+          <img className="hero__img-michael" src="/images/img-michael.png" />
+
+          <p>
+            I'm a <span className="hero__subtile">software developer</span>
+          </p>
+          <p>
+            and <span className="hero__subtile">artist.</span>
+          </p>
           <div className="hero-btns">
             <Button
               className="btns"

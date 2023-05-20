@@ -17,14 +17,14 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          Before software engineering, I studied and practice business and
-          marketing. My proudest moment is Sparky Steps, we helped pet owners
+          Before software engineering, I studied and practiced business and
+          marketing. My proudest venture is Sparky Steps, we helped pet owners
           all across Chicago for 7 years.
         </p>
       </div>
       <div className="about__container-text">
         <p>
-          My passions include visual arts, philosophy, digital marketing, and
+          My other passions include visual arts, philosophy, digital marketing, and
           social entreprenuership.
         </p>
       </div>

@@ -6,7 +6,9 @@
 h1 {
   text-align: center;
   color: #db504a;
+  font-size: 60px;
 }
+
 
 .cards__container {
   display: flex;
