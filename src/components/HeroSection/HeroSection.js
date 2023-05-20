@@ -15,7 +15,11 @@ function HeroSection() {
             alt="Hello,"
           />
           <h1>my name is</h1>
-          <img className="hero__img-michael" src="/images/img-michael.png" />
+          <img
+            className="hero__img-michael"
+            src="/images/img-michael.png"
+            alt="Michael Jaurigue"
+          />
 
           <p>
             I'm a <span className="hero__subtile">software developer</span>
