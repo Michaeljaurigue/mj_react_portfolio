@@ -11,26 +11,28 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          A Software Engineer. I love to create full stack
-          experiences on the web.
+          A Software Engineer. I love to create full stack experiences on the
+          web.
         </p>
       </div>
       <div className="about__container-text">
         <p>
-          Before software engineering I started a pet sitting business in
-          Chicago. It was a great experience but it's time for something new.
+          Before software engineering, I studied and practice business and
+          marketing. My proudest moment is Sparky Steps, we helped pet owners
+          all across Chicago for 7 years.
         </p>
       </div>
       <div className="about__container-text">
         <p>
-          I'm also a visual artist, digital marketing enthusiast and social
-          entreprenuership advocate.
+          My passions include visual arts, philosophy, digital marketing, and
+          social entreprenuership.
         </p>
       </div>
       <div className="about__container-text">
         <p>
           I aspire to leverage technology to help build innovative solutions
-          that address pressing societal needs, making the world a better place.
+          that address pressing societal needs, with the hopes to make the world
+          a better place. 🌎
         </p>
       </div>
     </div>

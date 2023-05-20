@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #084c61;
 }
 
 .contact {
@@ -20,6 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   margin: 50px;
+  color: #084c61;
 }
 
 .contact_header:hover {
@@ -33,7 +34,7 @@ body {
   line-height: 20px;
   font-weight: bold;
   padding: 28px;
-  background-color: white;
+  background-color: #db504a;
   position: relative;
   border-radius: 20px;
   display: flex;
@@ -47,6 +48,7 @@ body {
   padding: 0;
   margin: 0;
   border: none;
+  color: #084c61;
 }
 
 input {
@@ -83,7 +85,7 @@ label {
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
   font-weight: bold;
-  color: black;
+  color: #084c61;
 }
 
 input[type="submit"] {
