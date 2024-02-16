@@ -7,6 +7,7 @@ export default function About() {
   return (
     <div className="about-container">
       <div className="about__container-text">
+        <br /><br /><br />
         <h1>Career</h1>
       </div>
       <div className="about__container-text">
@@ -34,6 +35,9 @@ export default function About() {
           that address pressing societal needs, with the hopes to make the world
           a better place. 🌎
         </p>
+        <br />
+        <br />
+        <br />
       </div>
     </div>
   );

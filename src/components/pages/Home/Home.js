@@ -4,6 +4,7 @@ import Cards from "../Projects/Projects";
 import HeroSection from "../../HeroSection/HeroSection";
 import Footer from "../../Footer/Footer";
 import About from "../About/About";
+import Work from "../Work/Work";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       <HeroSection />
       <About />
       <Cards />
+      <Work />
       <Footer />
     </>
   );

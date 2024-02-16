@@ -6,7 +6,7 @@
   z-index: -1;
 } */
 
-.about-container {
+.work-container {
   display: flex;
   flex-flow: column;
   align-items: flex-start;
@@ -15,18 +15,19 @@
   background-color: #db504a;
 }
 
-.about__container-text>h1 {
+.work__container-text>h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 60px;
   font-weight: 700;
   color: #084c61;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 100px;
+  margin-right: 100px;
   margin-top: 10px;
+
 }
 
-.about__container-text>p {
+.work__container-text>p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 30px;
@@ -39,30 +40,30 @@
 }
 
 @media screen and (max-width: 996px) {
-  .about__container-text>p {
+  .work__container-text>p {
     font-size: 20px;
     margin-bottom: 10px;
   }
 
-  .about__container-text>h1 {
+  .work__container-text>h1 {
     font-size: 30px;
   }
 
-  .about__item-wrap {
+  .work__item-wrap {
     margin-top: 100px;
   }
 
-  .about__item-info {
+  .work__item-info {
     font-size: 24px;
   }
 }
 
 @media screen and (max-width: 872px) {
-  .about__item-wrap {
+  .work__item-wrap {
     margin-top: 100px;
   }
 
-  .about__item-info {
+  .work__item-info {
     font-size: 24px;
   }
 }
