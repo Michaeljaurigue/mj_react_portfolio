@@ -19,7 +19,7 @@ function Cards() {
               src="images/se_project_wtwr_react.jpg"
               text="React | API | Express | MongoDB | Node.js | Git : This app uses API to recommend an outfit based on the weather. Click the image to see the live site!"
               label="WTWR Weather Outfit App"
-              path="https://wtwr.devwonders.com/main"
+              path="https://wtwrapp.netlify.app/main"
             />
           </ul>
           <ul className="cards__items">
