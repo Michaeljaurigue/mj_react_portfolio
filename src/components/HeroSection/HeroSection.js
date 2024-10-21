@@ -25,7 +25,7 @@ function HeroSection() {
             I'm a <span className="hero__subtile">digital marketer</span>
           </p>
           <p>
-            <span className="hero__subtile">web developer,</span>
+            <span className="hero__subtile">web developer, artist,</span>
           </p>
           <p>
             and <span className="hero__subtile">graphic designer.</span>
