@@ -28,13 +28,11 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          I aspire to leverage technology to help build innovative solutions
-          that address pressing societal needs, with the hopes to make the world
-          a better place. 🌎
+          I aim to blend technology and art to create innovative solutions, with a constant focus on making the world a better place, one meaningful action at a time. 🌎
         </p>
         <br />
         <br />
-        <br />
+
       </div>
     </div>
   );
