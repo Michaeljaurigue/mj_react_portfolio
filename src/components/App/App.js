@@ -8,6 +8,8 @@ import Projects from "../pages/Projects/Projects";
 import Contact from "../pages/Contact/Contact";
 import Artwork from "../pages/Artwork/Artwork";
 import Resume from "../pages/Resume/Resume";
+import GraphicDesign from "../pages/GraphicDesign/GraphicDesign";
+import DigitalMarketing from "../pages/DigitalMarketing/DigitalMarketing";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           <Route path="/" exact Component={Home} />
           <Route path="/about" exact Component={About} />
           <Route path="/projects" exact Component={Projects} />
+          <Route path="/GraphicDesign" exact Component={GraphicDesign} />
+          <Route path="/DigitalMarketing" exact Component={DigitalMarketing} />
           <Route path="/artwork" exact Component={Artwork} />
           <Route path="/resume" exact Component={Resume} />
           <Route path="/contact" exact Component={Contact} />

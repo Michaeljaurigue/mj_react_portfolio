@@ -8,19 +8,16 @@ export default function About() {
     <div className="about-container">
       <div className="about__container-text">
         <br /><br /><br />
-        <h1>Career</h1>
+        <h1>Who is this guy?</h1>
       </div>
       <div className="about__container-text">
         <p>
-          A Software Engineer. I love to create full stack experiences on the
-          web.
+          Digital Marketer, Web Developer, and Graphic Designer. I create dynamic, user-friendly websites and impactful digital marketing campaigns.
         </p>
       </div>
       <div className="about__container-text">
         <p>
-          Before software engineering, I studied and practiced business and
-          marketing. My proudest venture is Sparky Steps, we helped pet owners
-          all across Chicago for 7 years.
+          As the founder of Sparky Steps, a successful pet care business in Chicago, I gained valuable experience in building and promoting brands. My passion for both design and development allows me to craft engaging digital solutions that resonate with audiences and drive results.
         </p>
       </div>
       <div className="about__container-text">

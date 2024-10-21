@@ -1,73 +1,73 @@
 import React from "react";
 import CardItem from "../../CardItem/CardItem";
-import "./Artwork.css";
+import "./GraphicDesign.css";
 
 function Cards() {
   return (
     <div className="cards">
-      <h1>Visual Artwork</h1>
+      <h1>Graphic Designs</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/mj-artwork-1.jpg"
-              text="Universal powers"
+              src="images/instaSample2.gif"
+              text="YouTube Thumbnail Design"
               label="MJ"
               path=""
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/mj-artwork-2.jpg"
-              text="Fight the illusion"
+              src="images/instaSample.gif"
+              text="Instagram Post Sample"
               label="MJ"
               path=""
             />
             <CardItem
-              src="images/mj-artwork-3.jpg"
-              text="The wilderness within and without"
+              src="images/dinoMan.gif"
+              text="Dino Man made with AI and editing on Photoshop"
               label="MJ"
               path=""
             />
             <CardItem
-              src="images/mj-artwork-4.jpg"
-              text="Dancing in the forest"
-              label="MJ"
-              path=""
-            />
-          </ul>
-          <ul className="cards__items">
-            <CardItem
-              src="images/mj-artwork-5.jpg"
-              text="Guy with a heart"
-              label="MJ"
-              path=""
-            />
-            <CardItem
-              src="images/mj-artwork-6.jpg"
-              text="Lost, found, and drowned"
+              src="images/bookMockUp.gif"
+              text="Book Mock Up Designed and Ready for Print"
               label="MJ"
               path=""
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/mj-artwork-7.jpg"
-              text="Power puff and cough"
+              src="images/seltzer.gif"
+              text="YouTube Sample for a Selzter Taste Test Video"
               label="MJ"
               path=""
             />
             <CardItem
-              src="images/mj-artwork-8.jpg"
-              text="Boom boom pow"
+              src="images/sparkyStepsLogo.gif"
+              text="The OG Sparky Steps Logo"
               label="MJ"
               path=""
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/mj-artwork-9.jpg"
-              text="Floating in the clouds"
+              src="images/Travel-Hacks-1.gif"
+              text="YouTube Sample Thumbnail for Travel Hacks Video"
+              label="MJ"
+              path=""
+            />
+            <CardItem
+              src="images/Travel-Hacks-2.gif"
+              text="YouTube Sample Thumbnail for Travel Hacks Video"
+              label="MJ"
+              path=""
+            />
+          </ul>
+          <ul className="cards__items">
+            <CardItem
+              src="images/goldenGirl.gif"
+              text="Golden winged girl with crown made with AI and editing on Photoshop"
               label="MJ"
               path=""
             />

@@ -11,7 +11,6 @@ function Home() {
     <>
       <HeroSection />
       <About />
-      <Cards />
       <Work />
       <Footer />
     </>

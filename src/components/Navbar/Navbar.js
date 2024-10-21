@@ -47,7 +47,25 @@ function Navbar() {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Projects
+                Web Development
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                to="/GraphicDesign"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
+                Graphic Design
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                to="/DigitalMarketing"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
+                Digital Marketing
               </Link>
             </li>
             <li className="nav-item">
@@ -56,7 +74,7 @@ function Navbar() {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Art
+                Artwork
               </Link>
             </li>
             <li className="nav-item">

@@ -40,12 +40,16 @@
 
 @media screen and (max-width: 996px) {
   .about__container-text>p {
+    margin-left: 50px;
+    margin-right: 50px;
     font-size: 20px;
-    margin-bottom: 10px;
   }
 
   .about__container-text>h1 {
     font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+
   }
 
   .about__item-wrap {
@@ -58,8 +62,14 @@
 }
 
 @media screen and (max-width: 872px) {
+  .about__container-text> {
+    margin-left: auto;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
   .about__item-wrap {
-    margin-top: 100px;
+    margin-top: 500px;
   }
 
   .about__item-info {

@@ -22,10 +22,13 @@ function HeroSection() {
           />
 
           <p>
-            I'm a <span className="hero__subtile">software developer</span>
+            I'm a <span className="hero__subtile">digital marketer</span>
           </p>
           <p>
-            and <span className="hero__subtile">artist.</span>
+            <span className="hero__subtile">web developer,</span>
+          </p>
+          <p>
+            and <span className="hero__subtile">graphic designer.</span>
           </p>
           <div className="hero-btns">
             <Button
