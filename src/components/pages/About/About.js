@@ -12,7 +12,7 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          Digital Marketer, Web Developer, and Graphic Designer. I create dynamic, user-friendly websites and impactful digital marketing campaigns.
+          A Digital Marketer, Web Developer, Artist, and Graphic Designer. I create dynamic, user-friendly websites, graphic designs, and impactful digital marketing campaigns that help accomplish goals.
         </p>
       </div>
       <div className="about__container-text">
@@ -22,7 +22,7 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          My other passions include visual arts, philosophy, digital marketing, and
+          I'm passionate about art, philosophy, digital marketing, and
           social entreprenuership.
         </p>
       </div>
