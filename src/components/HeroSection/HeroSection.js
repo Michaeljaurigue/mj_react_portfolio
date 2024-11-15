@@ -9,12 +9,12 @@ function HeroSection() {
       <div className="hero__container_items">
         <video src="/videos/video-1.mp4" autoPlay loop muted />
         <div className="hero__container_left">
-          <img
+          {/* <img
             className="hero__img-hello"
             src="images/img-hello.png"
             alt="Hello,"
-          />
-          <h1>my name is</h1>
+          /> */}
+          <h1>Hi there, I'm</h1>
           <img
             className="hero__img-michael"
             src="/images/img-michael.png"
@@ -22,13 +22,13 @@ function HeroSection() {
           />
 
           <p>
-            I'm a <span className="hero__subtile">digital marketer</span>
+            "Crafting <span className="hero__subtile">Connections,</span>
           </p>
           <p>
-            <span className="hero__subtile">web developer, artist,</span>
+            <span className="hero__subtile">Creativity, and Care</span>
           </p>
           <p>
-            and <span className="hero__subtile">graphic designer.</span>
+            From <span className="hero__subtile">Pets to Pixels."</span>
           </p>
           <div className="hero-btns">
             <Button

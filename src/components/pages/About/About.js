@@ -12,7 +12,7 @@ export default function About() {
       </div>
       <div className="about__container-text">
         <p>
-          I’m a Pet Sitter, Brand Manager, Digital Marketer, Web Developer, and Graphic Designer dedicated to creating meaningful experiences. From pet care to building user-friendly websites, crafting impactful designs, and running effective marketing campaigns, I help individuals and businesses achieve their goals.
+          I’m a Pet Sitter, Artist, Brand Manager, Digital Marketer, Web Developer, Philosopher, and Graphic Designer dedicated to creating meaningful experiences. From pet care to building user-friendly websites, crafting impactful designs, and running effective marketing campaigns, I help individuals and businesses achieve their goals.
         </p>
       </div>
       <div className="about__container-text">
