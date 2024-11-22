@@ -28,7 +28,9 @@ const Contact = () => {
 
   return (
     <div>
+      <video src="/videos/video-2.mp4" autoPlay loop muted />
       <div className="contact">
+
         <div className="contact-container">
           <h1 className="contact_header">Contact Me</h1>
           <form className="form" ref={form} onSubmit={sendEmail}>

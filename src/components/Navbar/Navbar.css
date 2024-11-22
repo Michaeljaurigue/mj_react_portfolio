@@ -1,6 +1,6 @@
 .navbar {
   /* background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%); */
-  background-color: #db504a;
+  background-color: #0D0C04;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -20,7 +20,7 @@
 }
 
 .navbar-logo {
-  color: #084c61;
+  color: #D9D9D9;
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
@@ -28,6 +28,7 @@
   font-size: 2rem;
   display: flex;
   align-items: center;
+  margin-right: 20px;
 }
 
 .fa-typo3 {
@@ -51,7 +52,7 @@
 }
 
 .nav-links {
-  color: #084c61;
+  color: #D9D9D9;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -96,7 +97,7 @@
   .nav-menu.active {
     display: flex;
     justify-content: flex-start;
-    background: #db504a;
+    background: #0D0C04;
     left: 0;
     opacity: 1;
     transition: all 0.5s ease;
@@ -115,7 +116,7 @@
 
   .nav-links:hover {
     background-color: #fff;
-    color: #084c61;
+    color: #D9D9D9;
     border-radius: 0;
   }
 
@@ -137,7 +138,7 @@
   }
 
   .fa-times {
-    color: #084c61;
+    color: #D9D9D9;
     font-size: 2rem;
   }
 
@@ -150,7 +151,7 @@
     text-decoration: none;
     font-size: 1.5rem;
     background-color: transparent;
-    color: #084c61;
+    color: #D9D9D9;
     padding: 14px 20px;
     border: 1px solid #fff;
     transition: all 0.3s ease-out;

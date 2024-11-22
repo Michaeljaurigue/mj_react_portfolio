@@ -12,7 +12,7 @@
   align-items: flex-start;
   width: 100%;
   margin: 0 auto;
-  background-color: #db504a;
+  background-color: #0D0C04;
 }
 
 .about__container-text>h1 {
@@ -20,7 +20,7 @@
     "Lucida Sans", Arial, sans-serif;
   font-size: 60px;
   font-weight: 700;
-  color: #084c61;
+  color: #D9D9D9;
   margin-left: 250px;
   margin-right: 250px;
   margin-top: 10px;
@@ -31,7 +31,7 @@
     "Lucida Sans", Arial, sans-serif;
   font-size: 30px;
   font-weight: 700;
-  color: #084c61;
+  color: #D9D9D9;
   margin-left: 250px;
   margin-right: 250px;
   margin-top: 10px;
